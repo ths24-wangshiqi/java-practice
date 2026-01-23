@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac -encoding utf-8 $fileName && java -Dfile.encoding=UTF-8 $fileName"
+    },
+    "java.debug.settings.vmArgs": "-Dfile.encoding=UTF-8" // これを追加
+}
