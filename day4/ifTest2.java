@@ -9,7 +9,7 @@ public class ifTest2 {
         int actualPay = sc.nextInt();
         if (actualPay >= 600) {
             System.out.println("支払い完了");
-        }else 
+        }else{
             System.out.println("支払い失敗");
 
     }
