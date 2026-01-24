@@ -11,6 +11,7 @@ public class ifTest2 {
             System.out.println("支払い完了");
         }else{
             System.out.println("支払い失敗");
+        } 
 
     }
 }
