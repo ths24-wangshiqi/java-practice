@@ -2,7 +2,7 @@ package day4;
 
 import java.util.Scanner;
 
-public class ifTest5 {
+public class IfTest5 {
     public static void main(String[] args) {
         double total = 1000;
         Scanner sc = new Scanner(System.in);

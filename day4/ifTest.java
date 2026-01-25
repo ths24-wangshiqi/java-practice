@@ -2,7 +2,7 @@ package day4;
 
 import java.util.Scanner;
 
-public class ifTest {
+public class IfTest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("金を入力してください。");

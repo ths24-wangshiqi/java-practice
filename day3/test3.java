@@ -2,7 +2,7 @@ package day3;
 
 import java.util.Scanner;
 
-public class test3 {
+public class Test3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("第一虎の体重は？");

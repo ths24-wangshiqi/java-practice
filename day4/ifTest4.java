@@ -2,7 +2,7 @@ package day4;
 
 import java.util.Scanner;
 
-public class ifTest4 {
+public class IfTest4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("テスト点数を入力してください");

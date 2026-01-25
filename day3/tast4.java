@@ -1,6 +1,6 @@
 package day3;
 
-public class tast4 {
+public class Tast4 {
     public static void main(String[] args) {
         int num1 = 150;
         int num2 = 210;

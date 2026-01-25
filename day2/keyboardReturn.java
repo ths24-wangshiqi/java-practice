@@ -2,7 +2,7 @@ package day2;
 
 import java.util.Scanner;
 
-public class keyboardReturn {
+public class KeyboardReturn {
     public static void main(String[] args) {
 
         try (Scanner sc = new Scanner(System.in)) {
