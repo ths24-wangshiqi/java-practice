@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchDemo5",
+            "request": "launch",
+            "mainClass": "day4.SwitchDemo5",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
             "name": "SwitchDemo4",
             "request": "launch",
             "mainClass": "day4.SwitchDemo4",
