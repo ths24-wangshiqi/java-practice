@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RoopTest2",
+            "request": "launch",
+            "mainClass": "test.scr.RoopTest2",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
             "name": "RoopTest1",
             "request": "launch",
             "mainClass": "test.scr.RoopTest1",
