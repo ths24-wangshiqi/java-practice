@@ -1,5 +1,3 @@
-package day5;
-
 public class ForDemo2 {
     public static void main(String[] args) {
         for (int num = 1;num <= 5;num++){
