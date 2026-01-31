@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RoopTest1",
+            "request": "launch",
+            "mainClass": "test.scr.RoopTest1",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
+            "name": "SkipLoppDemo2",
+            "request": "launch",
+            "mainClass": "test.scr.SkipLoppDemo2",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
+            "name": "SkipLoppDemo1",
+            "request": "launch",
+            "mainClass": "test.scr.SkipLoppDemo1",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
             "name": "InfiniteloopDemo1",
             "request": "launch",
             "mainClass": "test.scr.InfiniteloopDemo1",
