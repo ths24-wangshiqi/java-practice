@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuotientRemainder",
+            "request": "launch",
+            "mainClass": "test.scr.QuotientRemainder",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
+            "name": "Backtest",
+            "request": "launch",
+            "mainClass": "test.scr.Backtest",
+            "projectName": "Java_b3423316"
+        },
+        {
+            "type": "java",
             "name": "ForDemo1",
             "request": "launch",
             "mainClass": "ForDemo1",
